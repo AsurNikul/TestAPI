@@ -1,0 +1,92 @@
+[
+  {
+    "name": "iPhone 14 Pro",
+    "price": 1199,
+    "featured": true,
+    "description": "Latest Apple smartphone with A16 Bionic chip.",
+    "rating": 4.8,
+    "company": "apple",
+    "createdAt": "2024-08-01T10:00:00Z"
+  },
+  {
+    "name": "Samsung Galaxy S23",
+    "price": 999,
+    "featured": false,
+    "description": "Samsung's flagship phone with Dynamic AMOLED 2X display.",
+    "rating": 4.5,
+    "company": "samsung",
+    "createdAt": "2024-08-03T14:30:00Z"
+  },
+  {
+    "name": "iPhone SE 2022",
+    "price": 429,
+    "featured": false,
+    "description": "Compact Apple device with A15 Bionic chip.",
+    "rating": 4.2,
+    "company": "apple",
+    "createdAt": "2024-08-05T08:45:00Z"
+  },
+  {
+    "name": "Samsung Galaxy A54",
+    "price": 399,
+    "featured": true,
+    "description": "Affordable Samsung phone with 120Hz AMOLED display.",
+    "rating": 4.1,
+    "company": "samsung",
+    "createdAt": "2024-08-07T09:20:00Z"
+  },
+  {
+    "name": "iPhone 13 Mini",
+    "price": 699,
+    "featured": true,
+    "description": "Mini version of iPhone 13 with Super Retina XDR.",
+    "rating": 4.6,
+    "company": "apple",
+    "createdAt": "2024-08-10T12:00:00Z"
+  },
+  {
+    "name": "Samsung Galaxy Z Flip 5",
+    "price": 1299,
+    "featured": true,
+    "description": "Foldable smartphone with powerful multitasking.",
+    "rating": 4.4,
+    "company": "samsung",
+    "createdAt": "2024-08-11T11:15:00Z"
+  },
+  {
+    "name": "iPhone 12",
+    "price": 749,
+    "featured": false,
+    "description": "Sleek design and A14 Bionic performance.",
+    "rating": 4.3,
+    "company": "apple",
+    "createdAt": "2024-08-13T07:45:00Z"
+  },
+  {
+    "name": "Samsung Galaxy M14",
+    "price": 299,
+    "featured": false,
+    "description": "Budget Samsung phone with big battery.",
+    "rating": 4.0,
+    "company": "samsung",
+    "createdAt": "2024-08-15T15:10:00Z"
+  },
+  {
+    "name": "iPhone XR",
+    "price": 499,
+    "featured": false,
+    "description": "Reliable iPhone with Liquid Retina display.",
+    "rating": 4.1,
+    "company": "apple",
+    "createdAt": "2024-08-17T16:00:00Z"
+  },
+  {
+    "name": "Samsung Galaxy S21 FE",
+    "price": 699,
+    "featured": true,
+    "description": "Fan Edition with flagship features.",
+    "rating": 4.2,
+    "company": "samsung",
+    "createdAt": "2024-08-20T13:30:00Z"
+  }
+]
